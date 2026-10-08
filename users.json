@@ -1,0 +1,7 @@
+[
+    {
+        "fullName": "Test User",
+        "email": "testuser@gmail.com",
+        "password": "scrypt:32768:8:1$hpgnqoDQVnBjLLWa$ed662ca5d9aae6e2041b7bdf4581d1600436c2b1e181c70762b40d361cd874a7ae54d925557ba05b7890d374c600d79f24e539626f024041ab60ac50929a7f99"
+    }
+]
